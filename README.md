@@ -45,8 +45,8 @@
         <td><p style="color:blue;">3.</p></td>
         <td><p style="color:peru;">Matematika</p></td>
           <td><p style="color: violet;">Angol nyelv</p></td>
-          <td><p style="color:snow;">Történelem</p></td>
-          <td><p style="color:peru;">Matematika</p></td>
+          <td><p style="color: snow;">Történelem</p></td>
+          <td><p style="color: peru;">Matematika</p></td>
       </tr>
       <tr>
         <td><p style="color:blue;">4.</p></td>
