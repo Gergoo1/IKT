@@ -35,42 +35,41 @@
       </tr>
       <tr>
         <td><p style="color:blue;">2.</p></td>
-        <td><p style=color:saddlebrown;">Programozási alapok</p></td>
+        <td><p style="color:saddlebrown;">Programozási alapok</p></td>
           <td><p style="color:teal;">IKT projektmunka I</p></td>
-          <td><p style=color:red;">Komplex természettud</p></td>
-          <td><p style=color:red;">Komplex természettud</p></td>
-          <td><p style=color:snow;">Történelem</p></td>
+          <td><p style="color:red;">Komplex természettud</p></td>
+          <td><p style="color:red;">Komplex természettud</p></td>
+          <td><p style="color:snow;">Történelem</p></td>
       </tr>
       <tr>
         <td><p style="color:blue;">3.</p></td>
-        <td><p style=color:saddlebrown;">Programozási alapok</p></td>
-          <td><p style=color:peru;">Matematika</p></td>
+        <td><p style="color:peru;">Matematika</p></td>
           <td><p style="color: violet;">Angol nyelv</p></td>
-          <td><p style=color:snow;">Történelem</p></td>
-          <td><p style=color:peru;">Matematika</p></td>
+          <td><p style="color:snow;">Történelem</p></td>
+          <td><p style="color:peru;">Matematika</p></td>
       </tr>
       <tr>
         <td><p style="color:blue;">4.</p></td>
-        <td><p style=color:yellow;">Munkavállalói ismeretek</p></td>
-        <td><p style=color:rgb(red, green, blue);">Testnevelés</p></td>
-          <td><p style=color:snow;">Történelem</p></td>
-          <td><p style=color:springgreen;">magyarnyelv és irod</p></td>
-          <td><p style=color:snow;">Történelem</p></td>
+        <td><p style="color:yellow;">Munkavállalói ismeretek</p></td>
+        <td><p style="color:rgb(red, green, blue);">Testnevelés</p></td>
+          <td><p style="color:snow;">Történelem</p></td>
+          <td><p style="color:springgreen;">magyarnyelv és irod</p></td>
+          <td><p style="color:snow;">Történelem</p></td>
       </tr>
       <tr>
         <td><p style="color:blue;">5.</p></td>
-        <td><p style=color:red;">Komplex természettud</p></td>
+        <td><p style="color:red;">Komplex természettud</p></td>
           <td>Magyar nyelv</td>
-          <td><p style=color:springgreen;">magyarnyelv és irod</p></td>
+          <td><p style="color:springgreen;">magyarnyelv és irod</p></td>
           <td><p style="color: violet;">Angol nyelv</p></td>
-          <td><p style=color:springgreen;">magyarnyelv és irod</p></td>
+          <td><p style="color:springgreen;">magyarnyelv és irod</p></td>
       </tr>
       <tr>
         <td><p style="color:blue;">6.</p></td>
-        <td><p style=color:peru;">Matematika</p></td>
+        <td><p style="color:peru;">Matematika</p></td>
           <td>Osztályfőnöki</td>
           <td></td>
-          <td><p style=color:peru;">Matematika</p></td>
+          <td><p style="color:peru;">Matematika</p></td>
           <td>Iformatika és távk</td>
       </tr>
       <tr>
